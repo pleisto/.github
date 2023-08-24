@@ -1,14 +1,9 @@
 ## Hey, this is us 👋
 
-At Pleisto, we believe in the power of technology to "augment human intellect" 🧠 and make the world a better place. 
+We're Pleisto, a technology company with a vision to "augment human intellect" 🧠 and foster a better world.
 
-That's why we've created **MashPod**, an open-source all-in-one workspace that's like an operating system for your work. 
-MashPod is a digital headquarters designed to help remote teams around the world bring their workflows together, 
-unify their docs, data, and systems, and drive their business forward 🚀.
+We're excited to introduce **Yuren Engine**, our innovative, open-source AI Backend-as-a-Service (BaaS). Yuren Engine is designed to harness the power of Large Language Models, such as GPT, to accelerate the industrial application of AI.
 
-And with the help of the Semantic Web(Yes, we were partly inspired by Tim Berners-Lee's [Solid](https://solidproject.org/))  and the LLM, 
-MashPod can also be used to create in-house knowledge graphs and as a low-code platform for citizen developers. 
+Yuren Engine serves as a bridge between underlying AI models and specific applications, enabling developers to leverage complex AI capabilities without needing deep technical expertise. It integrates with various data sources, intelligently automates tasks based on model outputs, and provides enhanced efficiency through smart caching and other acceleration techniques.
 
-MashPod is **coming soon** 📅, so stay tuned for updates 📢. 
-
-We're a team within your team, driven by the same spirit of invention and exploration that drives you. 
+Stay tuned for updates 📢 as we continue to innovate and move forward 🚀. We're the 'developer behind developers', driven by the same spirit of invention and exploration that fuels your work. We look forward to empowering tech professionals around the globe with our next-gen AI BaaS.
