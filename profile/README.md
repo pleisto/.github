@@ -14,7 +14,7 @@ Stay tuned for updates 📢 as we continue to innovate and move forward 🚀. We
 
 我们是 Pleisto，一家以 "增强人类智慧" 🧠 继而构建更美好世界为愿景的科技公司。
 
-我们隆重推出 **羽人引擎（Yuren Engine）**，这是我们创新的、开源的AI大模型中间件产品（BaaS, Backend-as-a-Service）。羽人引擎设计的初衷是帮助各个垂直领域的开发者构建基于大模型的产业应用。
+**羽人引擎（Yuren Engine）**是我们创新的、开源的AI大模型中间件产品（BaaS, Backend-as-a-Service）。羽人引擎设计的初衷是帮助各个垂直领域的开发者构建基于大模型的产业应用。
 
 作为底层 AI 模型和特定应用之间的桥梁，羽人引擎使Web开发者能够利用复杂的 AI 功能，而无需相关领域的背景知识。它能与各种数据源进行集成，基于模型输出智能地自动化任务，并通过智能缓存和其他加速技术提供增强效率。
 
